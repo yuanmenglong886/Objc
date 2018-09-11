@@ -22,6 +22,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     // add4
     // add5
+    // add6
 }
 
 
